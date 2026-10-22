@@ -16,10 +16,10 @@ public class Ejercicio04 {
     public static void main(String[] args) {
         // TODO code application logic here
         
-        int variable1 = 18;
-        int variable2 = 6;
+        int variable1 = 45;
+        int variable2 = 15;
         int variable3 = 3;
-        int variable4 = 0;
+        int variable4 = 15;
         
         
         System.out.println("-------Solución a problema------------------");
